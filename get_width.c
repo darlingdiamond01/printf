@@ -2,9 +2,9 @@
 
 /**
  * get_width - Calculates the width for printing
- * @format: Formatted string in which to print the arguments.
+ * @format: Formatted string in which to print arguments.
  * @i: List of arguments to be printed.
- * @list: list of arguments.
+ * @list: argument list.
  *
  * Return: width.
  */
